@@ -1,7 +1,7 @@
-# Hey there, I’m Shruthi 👋  
+## Hey there, I’m Shruthi 👋  
 
-I'm a CS undergrad who loves experimenting. 
-I mix **code, creativity, and curiosity** to turn ideas into real projects.
+#I'm a CS undergrad who loves experimenting. 
+#I mix **code, creativity, and curiosity** to turn ideas into real projects.
 
 **What I Do:**
 - 💻 AI/ML Engineer in training  
