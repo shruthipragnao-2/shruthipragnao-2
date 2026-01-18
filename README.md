@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there, I’m Shruthi 👋  
 
-<!--
-**shruthipragnao-2/shruthipragnao-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS undergrad who loves experimenting. 
+I mix **code, creativity, and curiosity** to turn ideas into real projects.
 
-Here are some ideas to get you started:
+**What I Do:**
+- 💻 AI/ML Engineer in training  
+- 🧠 Interested in LLMs, Agents, RAG, and Intelligent Systems  
+- 🏗️ I like building products, not just projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fun Facts:**
+* I'm a homebody
+* I like reading fantasy novels
+* **Hobbies:** dancing, anime, snacking  
